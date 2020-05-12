@@ -8,10 +8,9 @@ It is designed to work as a hybrid between Instagram and Reddit used for anonymo
 
 ###### A full video demo of the application can be found in 'video/demo_exported.mp4'
 ###### Instructions to install this application to your machine can be found in 'design.pdf'
-###### The ER Model.pdf describes the database architecture designed for this application
-###### The database is populated with real facebook data extracted from various Facebook groups and and re-purposed for the use of this application. More information regarding the data and its source can be found in ER Model.pdf
-###### All information regarding the software design and architecture can be found in design.pdf
-
+###### ER Model.pdf' describes the database architecture designed for this application
+###### The database is populated with real-world data extracted from various Facebook groups and and re-purposed for the use of this application. More information regarding the data and its source can be found in 'ER Model.pdf'
+###### All information regarding the software design and architecture can be found in 'design.pdf'
 
 Each user can follow topics that they wish to see posts on. These topics are created by
 users. A user can also follow other users without their permission (this is an intended feature
